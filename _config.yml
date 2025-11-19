@@ -9,7 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : 我的全新個人網站
+title                    : 韋承儒的全新個人網站
+description              : 計算機科學專業學生 | 實習生
 title_separator          : "-"
 name                     : 韋承儒
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
